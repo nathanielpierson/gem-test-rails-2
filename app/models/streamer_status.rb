@@ -1,0 +1,2 @@
+class StreamerStatus < ApplicationRecord
+end

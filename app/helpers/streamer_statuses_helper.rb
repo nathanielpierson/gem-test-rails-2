@@ -1,0 +1,2 @@
+module StreamerStatusesHelper
+end
